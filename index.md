@@ -1,14 +1,4 @@
-## I own this Bitch #Elie #AkaniiLookAtMeGo!!!
-(I mean the website)
-
-Tester Spot Biatch
-
-![alt text](https://scontent.xx.fbcdn.net/v/t1.0-9/19333_103564163007002_881024_n.jpg?_nc_cat=106&_nc_sid=e007fa&_nc_ohc=6JHtL1wPW3IAX8JwLa3&_nc_ht=scontent.xx&oh=cf272e76bbb447e44371cdede9c8ccf3&oe=5F0C1999)
-
-Aww, so cute :)
-
- ![Facebook](https://scontent.xx.fbcdn.net/v/t1.0-9/999364_483938295016752_263111917_n.jpg?_nc_cat=109&_nc_sid=43edb5&_nc_ohc=ODvjPqlUtNAAX9FLUuA&_nc_ht=scontent.xx&oh=6f061e3794f13a912766eadb5cbbe23e&oe=5F08A70C)
-
+## Test Build
 
 You can use the [editor on GitHub](https://github.com/DxDerelict/elouisa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
