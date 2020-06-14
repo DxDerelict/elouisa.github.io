@@ -1,4 +1,6 @@
-### Diego is Elie's Bish
+### Hey Tony Babe
+
+This is a test demo of my site, soon to be a resume portfolio
 
 ## Test Build
 
